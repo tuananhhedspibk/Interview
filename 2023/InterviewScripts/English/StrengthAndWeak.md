@@ -1,3 +1,5 @@
+# Strength And Weak
+
 My strengths lie in decisiveness and perseverance. When I set out to do something, despite encountering numerous difficulties along the way, I always persist until the end. Even if the outcome is not perfect, I believe that at least I dared to try, challenged myself, and despite the results not meeting expectations, I trust that I will learn something.
 
 Furthermore, before undertaking any task, whether large or small, I meticulously plan each step before taking action. Specifically, I consider what I will do at each stage, what preparations are needed, and what potential issues may arise.
