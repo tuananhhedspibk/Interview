@@ -1,11 +1,11 @@
 # Failed Project
 
-今の会社の倉庫システムの返却流れのプロジェクトなんですが、倉庫管理チームにとってはまあ OK でリリース可能だったんですけど、
-私にとってはまだ違和感が残っていて、普通には一日内にシステムがオーダー 1500 件を処理しないといけなくて、
-でもリリースした後に 1500 件のうち 「20 件」の処理が実行されなくて、システム全体的に致命な問題ではないけど、
-データチェックするとなんか嫌な気持ちになっていた、原因としては「業務ロジック」を Web に入れおいてたんで、
-思ったより倉庫側の操作がめっちゃ早くて「処理ミス」が発生しました、一応その後にリーダーと相談して、
-「初回のリリースって問題があるのは普通から今後に改善しても全然 OK」を言ってくれて、なんか頭が楽になりました。
-もちろん、その後に改善案件で問題が解決できました、でもそのプロジェクトを通じて勉強になったのは
-「最初に完璧もの作るのは無理なので、試さないとわかんないから勇気を持って色々を試してみて例え失敗しても
-何が勉強になって、自分も成長できるはずです」。
+I'm working on a return flow project for my current company's warehouse system, and it went OK for the warehouse management team,
+Normally, the system should process 1500 orders in a day, but after we released the system, we had to process "20" out of 1500 orders,
+But after the release, "20" of the 1500 orders were not processed, which is not a fatal problem for the system as a whole,
+The reason was that we had put the "business logic" on the web,
+The reason was that I had put the "business logic" on the web, and the warehouse side was operating much faster than I expected, so a "processing error" occurred, which I discussed with the leader afterwards,
+After discussing it with the leader, he told me that it was normal for the first release to have problems and that it would be OK to make improvements in the future, which eased my mind.
+Of course, I was able to solve the problem with the improvement project afterwards, but what I learned through that project was
+You can't make something perfect the first time, so you have to try things out to find out what works and what doesn't, even if you fail.
+Even if you fail, you will learn and grow.
