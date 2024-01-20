@@ -1,11 +1,21 @@
 # Experience
 
-Engineers consistently desire systems to be designed with standardization, ensuring that databases are also standardized. This guarantees scalability and ease of maintenance. However, from the business perspective, this functionality is often only recognized as a feature to be incorporated into the product and provided to users.
+Align the perspective between the engineer and the business.
+Engineers always want their systems to be designed with standards and their databases to be standard.
+This ensures scalability and ease of maintenance, though,
+The business side only recognizes the need to build this functionality into the product and provide it to the user.
 
-To reconcile both perspectives, it is important to address misunderstandings and conflicts that commonly arise between engineers and business in the workplace. Ultimately, collaboration between both sides is essential to deliver the best services to users.
+Therefore, how can we align the perspectives of both sides?
 
-If engineers exclusively adhere to business requirements without holding their own views, the system may become increasingly complex, jeopardizing scalability and maintainability. On the other hand, if engineers solely focus on technical aspects, development may be time-consuming, and there is a risk of deviating from the initial business requirements.
+It is normal for misunderstandings and conflicts between engineers and business to arise in business, but in the end, both sides must work together to provide the best possible service to the users.
+In the end, both sides will work together to provide the best possible service to the users.
 
-The solution to this problem involves a compromise, with both sides making concessions. Engineers should accept that if a system is 80% standardized, it may be sufficient. Simultaneously, the business side should adjust initial requirements to make implementation as easy as possible for the engineers.
+The way to solve this problem is for each side to bow down a little,
+The engineers should accept that a system that is 80% standard is good enough,
+The business side needs to adjust their initial requirements to make it as easy as possible for the engineers to implement.
 
-Communication is emphasized as a key factor. Understanding each other's concerns and desires deeply and collaboratively pursuing the most appropriate approach is crucial. In conclusion, the text highlights that for IT engineers, communication skills are as crucial as IT knowledge.
+Besides, I believe that communication is key, and we need to understand each other (what is troubling or desirable)
+It is important to understand each other deeply and pursue the most appropriate approach together.
+
+In conclusion
+I have learned that teamwork and communication skills are very important for IT engineers, as well as IT knowledge.
