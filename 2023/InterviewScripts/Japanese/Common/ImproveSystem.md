@@ -1,10 +1,13 @@
 # Improve System
 
-As an engineer, I would like to improve the system by implementing a testing framework. For example, our current system is mainly unit testing, but if we could incorporate e2e testing, it would improve the reliability of the system.
+エンジニアとして、テストフレームワークを導入することで、システムを改善したいと考えています。例えば現在のシステムは単体テストが中心ですが、もし e2e テストを取り入れることで、システムの信頼性が向上すると思います。
 
-If the API or code comment documentation could be improved, we would like to do it at all, and from the perspective of an engineer who is new to the company's system, documentation is
-Without documentation, they may drown in the code swamp of the system, and they may not know if what they are doing is correct or not during development.
-I believe that documentation or specifications can solve these worries and concerns.
+API またはコードのコメント・ドキュメントが改善できれば全然やりたいと思って、会社のシステムに初めて触るエンジニアの目線から考えるとドキュメントが 必要となって、ドキュメントがなければシステムのコード沼に溺死 (できし)可能性もあるし、開発時に自分がやってることは正しいかどうかも不安になるし、ドキュメント または仕様書があればその不安と悩みを解決できると思ってます。
 
-I think it is good that the system is working properly, but if an error occurs, how to handle the error and how to manage the error is also important.
-I believe that debugging is fast, and whether it is a temporary or permanent response, it is effective immediately.
+システムは正常に動いてるのは全然いいけど、エラー発生すればどうやってエラーハンドリング、エラー管理するも大事だと思うエラーハンドリング framework ができれば デバッグも早いし、暫定対応でも恒久対応でもすぐ効果が出てると思ってます。
+
+[Fast accounting]
+
+送られてる領収書または請求書の画像の質はたまに悪くて、AI-OCR モデルの判断に影響を全然与えられると思って、 Robota の前処理の AI に「振分」と「台紙切取」だけではなく「画像クリーニング」処理追加 (OpenCV 活用する)して ・画像の質 (0 - 1 点)は例えば 0.6 点以上なら次のフェーズに行ける、以下なら却下する。
+
+[Fast accounting]
